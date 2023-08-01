@@ -6,7 +6,6 @@ import threading
 import socket_src.server as socket_server
 from src.record import Recorder
 
-
 is_running = False
 
 
