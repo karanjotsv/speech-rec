@@ -1,3 +1,6 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
+
+# resources
+https://huggingface.co/spaces/ahmedghani/whisper_asr/raw/main/app.py
